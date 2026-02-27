@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SpaceX")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4eb1839b6928d2377f04597fc430af0b88ec2c03")]
 [assembly: System.Reflection.AssemblyProductAttribute("SpaceX")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SpaceX")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
